@@ -123,3 +123,54 @@ body{
     padding-bottom: 4%;
 }
 /* third section style ends here */
+
+
+/* fourth section style starts here */
+.display-flex{
+    display: flex;
+}
+.container h1{
+    font-size: 25px;
+    padding-left: 10%;
+}
+.container p{
+    font-size: 14px;
+    padding-left: 10%;
+}
+.container-a{
+    margin-left: 10%;
+    
+}
+.container{
+    width: 100%;
+    margin: 20px;
+    padding: 0 5%;
+    padding-bottom: 5%;
+}
+.fourth-sec-img{
+    width: 70%;
+    height: 300px;
+}
+.container-2 h1{
+    font-size: 25px;
+    padding-right: 20%;
+}
+.container-2 p{
+    font-size: 14px;
+    padding-right: 10%;
+}
+.container-2-a{
+    margin-right: 10%;
+    
+}
+.container-2{
+    width: 100%;
+    margin: 20px;
+    padding: 0 5%;
+}
+.fourth-2-sec-img{
+    width: 70%;
+    height: 300px;
+    padding-left: 25% ;
+}
+/* fourth section style ends here */
