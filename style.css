@@ -46,9 +46,10 @@ body{
     padding-top: 10%;
      padding-left: 20%;
     padding-right: 20%;
-    padding-bottom: 200px;
+    padding-bottom: 100px;
     
 }
+
 .second-section-container h1{
     font-size: 50px;
 }
@@ -85,3 +86,40 @@ body{
     
 }
 /* second section style ends here */
+
+/* third section style starts here */
+.third-section-container{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.card{
+    display: flex;
+    margin: 0 80px;
+    
+}
+.card-item{
+    width: 33.33%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
+    background-color: beige;
+    margin: 15px;
+    border-radius: 6px;
+    padding-bottom: 30px;
+}
+.card-item p{
+    padding-right: 10%;
+    text-align: justify;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.566);
+}
+.third-h1{
+    font-size: 50px;
+}
+.third-p{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 4%;
+}
+/* third section style ends here */
