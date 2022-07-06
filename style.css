@@ -166,7 +166,7 @@ body{
 .container-2{
     width: 100%;
     margin: 20px;
-    padding: 0 5%;
+    padding: 0 5%;padding-bottom: 10%;
 }
 .fourth-2-sec-img{
     width: 70%;
@@ -174,3 +174,64 @@ body{
     padding-left: 25% ;
 }
 /* fourth section style ends here */
+
+/* fifth section style starts here */
+.get-my-update{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10%;
+}
+.update-email{
+    background-color: rgb(236, 223, 205);
+    margin-left: 20% ;
+    margin-right: 20%;
+    padding: 70px 0;
+    border-radius: 6px;
+}
+.update-email input{
+    padding: 15px 40px 15px 4px;
+    margin: 0;
+    text-align: left;
+    border: none;
+    border-radius: 6px 0px 0px 6px;
+    background-color: darkgray;
+}
+.update-email li{
+    
+    display: inline-block;
+    
+}
+.update-email a{
+    padding: 12px 20px 14px 4px;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    border-radius: 0px 6px 6px 0px;
+    background-color: red;
+    border: none;
+}
+.get-my-update h1{
+    font-size: 40px;
+}
+.get-my-update p{
+    padding-left: 30%; padding-right: 30%;
+    padding-bottom: 2%;
+}
+/* fifth section style ends here */
+footer h1{
+    font-family: 'Lobster', cursive;
+    color: tomato;
+    font-size: 40px;
+}
+footer span{
+    color: yellowgreen;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 30px 0px;
+}
+footer p{
+    color: rgba(255, 255, 255, 0.383);
+    font-size: 11px;
+}
